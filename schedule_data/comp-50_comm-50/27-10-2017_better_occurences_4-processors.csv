@@ -1,0 +1,8 @@
+50/50 4 processor,up insetion,random oct_schedul,up oct shceulde,oct insertion ,random greedy,oct oct schedule,random insertion
+up insetion,0%,65%,67%,49%,100%,58%,41%
+random oct_schedul,35%,0%,35%,16%,100%,42%,25%
+up oct shceulde,33%,65%,0%,16%,100%,43%,25%
+oct insertion ,51%,84%,84%,0%,100%,74%,42%
+random greedy,0%,0%,0%,0%,0%,0%,0%
+oct oct schedule,42%,58%,57%,26%,100%,0%,35%
+random insertion,59%,75%,75%,58%,100%,65%,0%

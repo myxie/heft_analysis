@@ -1,0 +1,8 @@
+,up insertion,random oct_schedule,up oct schedule,oct insertion,random greedy,oct oct schedule,random insertion 
+up insertion,0%,80%,83%,57%,100%,81%,39%
+random oct_schedule,20%,0%,46%,16%,100%,57%,16%
+up oct schedule,17%,54%,0%,12%,100%,58%,13%
+oct insertion,43%,84%,88%,0%,100%,87%,33%
+random greedy,0%,0%,0%,0%,0%,0%,0%
+oct oct schedule,19%,43%,42%,13%,100%,0%,17%
+random insertion ,61%,84%,87%,67%,100%,83%,0%
